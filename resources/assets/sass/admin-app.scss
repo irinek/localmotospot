@@ -1,0 +1,25 @@
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+body {
+    font-family: 'Lato';
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+
+.dropdown-admin:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+
+.article-image {
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+}
+
+.modal-footer {
+	border: none;
+}
